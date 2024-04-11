@@ -30,3 +30,10 @@ To deploy this project run
   flutter pub get
   flutter run
 ```
+# Homepage
+![Screenshot_1712861315](https://github.com/Eldringrg/ascii_code_generator/assets/58216383/4a908681-aedd-433f-bbbe-306c52b3cca0)
+
+# gestureview
+![Screenshot_1712861304](https://github.com/Eldringrg/ascii_code_generator/assets/58216383/839ad77c-64ee-4962-b024-5c557edd705d)
+
+
