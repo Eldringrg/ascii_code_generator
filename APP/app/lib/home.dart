@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:app/function.dart';
+import 'package:ASCIIgenerator/function.dart';
 import 'package:flutter/material.dart';
 
 class Home extends StatefulWidget {
